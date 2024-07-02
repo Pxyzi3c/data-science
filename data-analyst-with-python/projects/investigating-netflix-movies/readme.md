@@ -1,4 +1,6 @@
 # Investigating Netflix Movies
+> [!NOTE]
+> Sample alert.
 ---
 ## Instructions: ##
 
@@ -12,7 +14,7 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 
 ## The Data: ##
 
-** `netflix_data.csv` **
+`netflix_data.csv`
 
 | Column | Description |
 |--------|-------------|
@@ -27,6 +29,3 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
-
-> [!NOTE]
-> Samle alert.
